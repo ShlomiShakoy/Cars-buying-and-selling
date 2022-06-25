@@ -1,5 +1,5 @@
 # Cars-buying-and-selling
-C# project using winform
+C# project using winform-BA task. 
 
 The demands of the project:
 1.	At least three inheritances.
