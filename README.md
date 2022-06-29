@@ -1,4 +1,4 @@
-# Cars-buying-and-selling
+# Cars and trucks-buying-and-selling
 C# project using winform-BA task. 
 
 The demands of the project:
