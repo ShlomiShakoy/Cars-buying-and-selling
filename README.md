@@ -1,7 +1,7 @@
 # Cars and trucks-buying-and-selling
 C# project using winform-BA task. 
 
-The demands of the project:
+Project's demands:
 1.	At least three inheritances.
 2.	Managing the classes by polymorphism.
 3.	Organization of the objects by collection object.
